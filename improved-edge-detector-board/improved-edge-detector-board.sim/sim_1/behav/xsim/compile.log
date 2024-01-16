@@ -1,0 +1,11 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/mar/DTU/dds-23/lab_2/dds-edge-detector/improved-edge-detector-4/improved-edge-detector-4.srcs/sources_1/imports/sources_1/imports/types.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/mar/DTU/dds-23/lab_2/dds-edge-detector/improved-edge-detector-4/improved-edge-detector-4.srcs/sources_1/imports/sources_1/imports/acc2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'acc'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/mar/DTU/dds-23/lab_2/dds-edge-detector/improved-edge-detector-4/improved-edge-detector-4.srcs/sources_1/imports/sources_1/imports/clock.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clock'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/mar/DTU/dds-23/lab_2/dds-edge-detector/improved-edge-detector-4/improved-edge-detector-4.srcs/sources_1/imports/sources_1/imports/memory2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'memory2'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/mar/DTU/dds-23/lab_2/dds-edge-detector/improved-edge-detector-4/improved-edge-detector-4.srcs/sources_1/imports/sources_1/new/ram_dist.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rams_dist'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/mar/DTU/dds-23/lab_2/dds-edge-detector/improved-edge-detector-4/improved-edge-detector-4.srcs/sim_1/imports/imports/test2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'testbench'
