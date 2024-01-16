@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../improved-edge-detector-4.srcs/sources_1/imports/sources_1/imports/types.vhd" \
+"../../../../improved-edge-detector-4.srcs/sources_1/imports/sources_1/imports/acc2.vhd" \
+"../../../../improved-edge-detector-4.srcs/sources_1/imports/sources_1/imports/clock.vhd" \
+"../../../../improved-edge-detector-4.srcs/sources_1/imports/sources_1/imports/memory2.vhd" \
+"../../../../improved-edge-detector-4.srcs/sources_1/imports/sources_1/new/ram_dist.vhd" \
+"../../../../improved-edge-detector-4.srcs/sim_1/imports/imports/test2.vhd" \
+
+# Do not sort compile order
+nosort
