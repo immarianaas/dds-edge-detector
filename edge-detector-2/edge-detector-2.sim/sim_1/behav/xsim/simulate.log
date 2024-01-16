@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: Processed image has been saved to: /home/mar/pic1_.pgm_result.pgm
+Time: 22056640 ns  Iteration: 3  Process: /testbench/Memory/line__114  File: /home/mar/DTU/dds-23/lab_2/dds-edge-detector/edge-detector-2/edge-detector-2.srcs/sources_1/imports/imports/memory2.vhd
+$finish called at time : 22056640 ns : File "/home/mar/DTU/dds-23/lab_2/dds-edge-detector/edge-detector-2/edge-detector-2.srcs/sources_1/imports/imports/memory2.vhd" Line 160
